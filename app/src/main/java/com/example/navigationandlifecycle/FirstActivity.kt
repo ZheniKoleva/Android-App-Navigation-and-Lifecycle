@@ -15,10 +15,9 @@ class FirstActivity : AppCompatActivity() {
         binding = ActivityFirstBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
-       binding.firstActivityButton.setOnClickListener {
-           val intent = Intent(this, SecondActivity::class.java)
-           startActivity(intent)
-
-       }
+        binding.firstActivityButton.setOnClickListener {
+            val intent = Intent(this, SecondActivity::class.java)
+            startActivity(intent)
+        }
     }
 }

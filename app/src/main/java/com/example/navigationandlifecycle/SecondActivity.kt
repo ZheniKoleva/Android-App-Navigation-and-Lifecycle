@@ -4,7 +4,7 @@ import android.app.Activity
 import android.os.Bundle
 import com.example.navigationandlifecycle.databinding.ActivitySecondBinding
 
-class SecondActivity: Activity() {
+class SecondActivity : Activity() {
     private lateinit var binding: ActivitySecondBinding
 
     override fun onCreate(savedInstanceState: Bundle?) {
