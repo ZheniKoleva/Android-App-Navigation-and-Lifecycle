@@ -17,6 +17,7 @@ class FirstActivity : AppCompatActivity() {
 
         binding.firstActivityButton.setOnClickListener {
             val intent = Intent(this, SecondActivity::class.java)
+            intent.putExtra("title", "Welcome from Second Activity")
             startActivity(intent)
         }
     }

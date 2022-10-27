@@ -5,11 +5,11 @@
       <map>
         <entry key="..\:/SoftUni/Android/Android-App-Navigation-and-Lifecycle/app/src/main/res/layout/activity_first.xml" value="0.1" />
         <entry key="..\:/SoftUni/Android/Android-App-Navigation-and-Lifecycle/app/src/main/res/layout/activity_main.xml" value="0.190625" />
-        <entry key="..\:/SoftUni/Android/Android-App-Navigation-and-Lifecycle/app/src/main/res/layout/activity_second.xml" value="0.2046875" />
-        <entry key="..\:/SoftUni/Android/Android-App-Navigation-and-Lifecycle/app/src/main/res/layout/fragment_first.xml" value="0.1947463768115942" />
+        <entry key="..\:/SoftUni/Android/Android-App-Navigation-and-Lifecycle/app/src/main/res/layout/activity_second.xml" value="0.16" />
+        <entry key="..\:/SoftUni/Android/Android-App-Navigation-and-Lifecycle/app/src/main/res/layout/fragment_first.xml" value="0.2" />
         <entry key="..\:/SoftUni/Android/Android-App-Navigation-and-Lifecycle/app/src/main/res/layout/fragment_fourth.xml" value="0.1947463768115942" />
-        <entry key="..\:/SoftUni/Android/Android-App-Navigation-and-Lifecycle/app/src/main/res/layout/fragment_second.xml" value="0.1" />
-        <entry key="..\:/SoftUni/Android/Android-App-Navigation-and-Lifecycle/app/src/main/res/layout/fragment_third.xml" value="0.1" />
+        <entry key="..\:/SoftUni/Android/Android-App-Navigation-and-Lifecycle/app/src/main/res/layout/fragment_second.xml" value="0.2" />
+        <entry key="..\:/SoftUni/Android/Android-App-Navigation-and-Lifecycle/app/src/main/res/layout/fragment_third.xml" value="0.176" />
       </map>
     </option>
   </component>
@@ -18,5 +18,12 @@
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.2" />
+      </ProjectState>
+    </option>
   </component>
 </project>
