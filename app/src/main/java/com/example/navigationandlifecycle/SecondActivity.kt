@@ -21,25 +21,6 @@ class SecondActivity : AppCompatActivity() {
 
         mainButton = binding.mainButton
 
-       /* binding.mainButton.setOnClickListener {
-             val rf = supportFragmentManager.
-             val fr = rf as NavHostFragment
-             val directions = fr.navController.findDestination(R.id.nav_graph)
-
-           // fr.findNavController().navigate(directions)
-            fr.apply {
-                var directions = fr.context.run {
-                    //findNavController().navigate()
-                }
-            }
-
-            println(fr)
-            val fragmentManager = supportFragmentManager
-            val fragmentTransaction = fragmentManager.beginTransaction()
-            //fragmentTransaction.replace(R.id.nav_host_fragment,  )
-            fragmentTransaction.commit()
-        } */
-
         setContentView(binding.root)
     }
 }
