@@ -3,7 +3,6 @@ package com.example.navigationandlifecycle
 import android.os.Bundle
 import android.widget.Button
 import androidx.appcompat.app.AppCompatActivity
-import androidx.navigation.fragment.NavHostFragment
 import com.example.navigationandlifecycle.databinding.ActivitySecondBinding
 
 class SecondActivity : AppCompatActivity() {
