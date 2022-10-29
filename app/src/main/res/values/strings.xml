@@ -2,4 +2,21 @@
     <string name="app_name">NavigationAndLifecycle</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="first_activity_tv">Welcome to First Activity</string>
+    <string name="next_activity_btn">go to next activity</string>
+
+    <string name="second_activity_tv">You are on Second Activity</string>
+    <string name="switch_fragment_btn">switch fragment</string>
+
+    <string name="first_fragment_tv">Hello from first fragment!</string>
+    <string name="fragment_one_btn">switch to fragment 2</string>
+
+    <string name="second_fragment_tv">Wow! You are on fragment two now.</string>
+    <string name="second_fragment_btn">switch to fragment 3</string>
+
+    <string name="third_fragment_tv">Congrats! You are on fragment three.</string>
+    <string name="third_fragment_btn">switch to fragment 4</string>
+
+    <string name="fourth_fragment_tv">Well done! You are on the last fragment.</string>
+    <string name="fourth_fragment_btn">go back to fragment 1</string>
 </resources>
